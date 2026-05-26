@@ -33,8 +33,8 @@ This repository contains Linux practice exercises, shell scripts, and developmen
 - Push operation
 - Pull operation
 
-##Author
-Name: Advaith Mahadevuni
+## Author
+Name:Advaith Mahadevuni
 
 ## Date
 May 2026
